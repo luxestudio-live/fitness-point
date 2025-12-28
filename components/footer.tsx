@@ -34,7 +34,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-neutral-800 mt-8 pt-8 text-center">
-          <p className="text-neutral-500 text-sm">© {new Date().getFullYear()} Power Gold Gym. All rights reserved.</p>
+          <p className="text-neutral-500 text-sm">© {new Date().getFullYear()} Fitness Point. All rights reserved.</p>
           <div className="mt-6 flex flex-col items-center">
             <span className="text-xs text-neutral-400 mb-1">Designed & Crafted with <span className="text-gold">passion</span> by</span>
             <a

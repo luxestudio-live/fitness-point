@@ -34,7 +34,7 @@ export function AboutSection() {
               MORE THAN JUST A <span className="text-gold">GYM</span>
             </h2>
             <p className="text-neutral-400 text-lg leading-relaxed mb-6">
-              At Power Gold Gym, we believe fitness is a journey, not a destination. Founded in 2010, we&apos;ve helped
+              At Fitness Point, we believe fitness is a journey, not a destination. Founded in 2010, we&apos;ve helped
               thousands of members transform their lives through expert guidance, world-class facilities, and an
               unwavering commitment to excellence.
             </p>

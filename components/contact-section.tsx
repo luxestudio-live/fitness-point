@@ -13,12 +13,12 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Address",
-    content: "123 Fitness Avenue, Downtown District, NY 10001",
+    content: "Shop No. 9, Behind Shivsena, J.M. Niwas, Jangal Mangal Rd, near Post, Office, Mo[9702212925, Bhandup West, Mumbai, Maharashtra 400078",
   },
   {
     icon: Phone,
     title: "Phone",
-    content: "+1 (555) 123-4567",
+    content: "+91 9702212925",
   },
   {
     icon: Mail,
@@ -125,7 +125,7 @@ export function ContactSection() {
             <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-6">
               <h4 className="text-white font-bold mb-2">Free Trial Available!</h4>
               <p className="text-neutral-400 text-sm">
-                Not sure if Power Gold Gym is right for you? Sign up for a free 3-day trial and experience our facilities
+                Not sure if Fitness Point is right for you? Sign up for a free 3-day trial and experience our facilities
                 firsthand.
               </p>
             </div>

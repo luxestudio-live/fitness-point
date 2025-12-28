@@ -8,21 +8,21 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Power Gold Gym | Transform Your Body & Mind",
+  title: "Fitness Point | Transform Your Body & Mind",
   description:
-    "Power Gold is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
-  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "Power Gold"],
-  authors: [{ name: "Power Gold Gym" }],
+    "Fitness Point is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
+  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "Fitness Point"],
+  authors: [{ name: "Fitness Point" }],
   openGraph: {
-    title: "Power Gold Gym | Transform Your Body & Mind",
+    title: "Fitness Point | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
     type: "website",
     locale: "en_US",
-    siteName: "Power Gold Gym",
+    siteName: "Fitness Point",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Power Gold Gym | Transform Your Body & Mind",
+    title: "Fitness Point | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
   },
   robots: {

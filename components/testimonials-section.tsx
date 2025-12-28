@@ -5,7 +5,7 @@ const testimonials = [
     name: "Amit Verma",
     role: "Lost 22kg in 6 months",
     image: `${process.env.NEXT_PUBLIC_BASE_PATH || ''}/happy-male-gym-member-testimonial-portrait.jpg`,
-    text: "Power Gold Gym transformed my health. The trainers motivated me every step. I feel energetic and confident.",
+    text: "Fitness Point transformed my health. The trainers motivated me every step. I feel energetic and confident.",
     rating: 5,
   },
   {
@@ -19,7 +19,7 @@ const testimonials = [
     name: "Rahul Mehta",
     role: "Business Owner",
     image: `${process.env.NEXT_PUBLIC_BASE_PATH || ''}/professional-man-gym-member-testimonial-portrait.jpg`,
-    text: "As a business owner, I value flexible timings and effective workouts. Power Gold Gym is the best investment for my health.",
+    text: "As a business owner, I value flexible timings and effective workouts. Fitness Point is the best investment for my health.",
     rating: 5,
   },
 ]
