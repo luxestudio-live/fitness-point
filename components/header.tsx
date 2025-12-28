@@ -43,7 +43,7 @@ export function Header() {
           <a href="#" className="flex items-center gap-2">
             <Dumbbell className="h-8 w-8 text-gold" />
             <span className="text-xl md:text-2xl font-black text-white tracking-tight">
-              POWER <span className="text-gold">GOLD</span>
+              FITNESS <span className="text-gold">POINT</span>
             </span>
           </a>
 

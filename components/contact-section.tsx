@@ -23,7 +23,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "info@powergold.gym",
+    content: "info@fitnesspoint.gym",
   },
   {
     icon: Clock,
