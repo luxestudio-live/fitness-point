@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  assetPrefix: process.env.GITHUB_PAGES === 'true' ? '/power-gold-gym/' : '',
-  basePath: process.env.GITHUB_PAGES === 'true' ? '/power-gold-gym' : '',
+  assetPrefix: process.env.GITHUB_PAGES === 'true' ? '/fitness-point/' : '',
+  basePath: process.env.GITHUB_PAGES === 'true' ? '/fitness-point' : '',
 }
 
 export default nextConfig
